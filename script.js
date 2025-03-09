@@ -52,7 +52,7 @@ $(document).ready(function () {
     }
     count1 += 1;
   });
-  // console.log(arrayBtn);
+  console.log(arrayBtn);
   $("#red").click(function () {
     $("#red").addClass("pressed");
     setTimeout(function () {
